@@ -59,7 +59,7 @@ body {
     background-image: url("../img/gallery.png");
 }
 .box:nth-child(3):hover {
-    background-image: url("../img/searchBox.png");
+    background-image: url("../img/growingBorder.png");
 }
 .box:nth-child(4):hover {
     background-image: url("../img/searchBox.png");
